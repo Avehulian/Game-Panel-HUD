@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="GamePanelHUDCompass/GamePanelHUDCompass.csproj" />
+  <Project Path="GamePanelHUDCore/GamePanelHUDCore.csproj" />
+  <Project Path="GamePanelHUDGrenade/GamePanelHUDGrenade.csproj" />
+  <Project Path="GamePanelHUDHealth/GamePanelHUDHealth.csproj" />
+  <Project Path="GamePanelHUDHit/GamePanelHUDHit.csproj" />
+  <Project Path="GamePanelHUDKill/GamePanelHUDKill.csproj" />
+  <Project Path="GamePanelHUDWeapon/GamePanelHUDWeapon.csproj" />
+</Solution>
